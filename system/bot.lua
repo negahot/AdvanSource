@@ -235,7 +235,7 @@ function create_config( )
     },
     vip_users = {}, --vip users
     sudo_users = {275387751},--Sudo users
-    support_gp = {164383660},--Support id
+    support_gp = {1001099438403},--Support id
     moderation = {data = 'data/adv.json'},
     about_text = [[*IN THE NAME OF ALLAH*
 This is an original bot and based on (AdvanSource).
