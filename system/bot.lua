@@ -237,9 +237,13 @@ function create_config( )
     sudo_users = {275387751},--Sudo users
     support_gp = {1001099438403},--Support id
     moderation = {data = 'data/adv.json'},
-    about_text = [[*IN THE NAME OF ALLAH*
-This is an original bot and based on (AdvanSource).
-Copyright all right reserved and you must respect all laws.
+    about_text = [[🎗به نام خدا
+💠روبات کلونا
+🔘زیر نظر تیم عاشقان ثارالله
+
+✅با امکانات بسیار بر پایه (تله سید)
+
+ساخته شده در 🇮🇷 با ❤️
 ]],
     --Start rate:
     Group_rate = [[]],
